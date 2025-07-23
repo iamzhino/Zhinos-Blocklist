@@ -13,3 +13,4 @@ ord2-128-116-101-3.roblox.com
 lms.roblox.com/report
 metrics.roblox.com
 tracing.roblox.com
+roblox.com
